@@ -1,0 +1,290 @@
+{
+	"itemGroup.dawncraft.DungeonBlocks": "DawnCraft Dungeon Blocks",
+	"itemGroup.dawncraft.DungeonFunctionalBlocks": "Functional Dungeon Blocks",
+	"itemGroup.dawncraft.DungeonItems": "DawnCraft Items",
+
+	"block.dawncraft.forest_brick": "Forest Brick",
+	"block.dawncraft.forest_brick_stairs": "Forest Brick Stairs",
+	"block.dawncraft.forest_brick_slab": "Forest Brick Slab",
+	"block.dawncraft.forest_brick_wall": "Forest Brick Wall",
+	
+	"block.dawncraft.fire_brick": "Fire Brick",
+	"block.dawncraft.fire_brick_stairs": "Fire Brick Stairs",
+	"block.dawncraft.fire_brick_slab": "Fire Brick Slab",
+	"block.dawncraft.fire_brick_wall": "Fire Brick Wall",
+	
+	"block.dawncraft.coral": "Coral",
+	"block.dawncraft.coral_stairs": "Coral Stairs",
+	"block.dawncraft.coral_slab": "Coral Slab",
+	"block.dawncraft.coral_wall": "Coral Wall",
+	
+	"block.dawncraft.magma_slate": "Magma Slate",
+	"block.dawncraft.magma_slate_stairs": "Magma Slate Stairs",
+	"block.dawncraft.magma_slate_slab": "Magma Slate Slab",
+	"block.dawncraft.magma_slate_wall": "Magma Slate Wall",
+	
+	"block.dawncraft.moss_brick": "Moss Brick",
+	"block.dawncraft.moss_brick_stairs": "Moss Brick Stairs",
+	"block.dawncraft.moss_brick_slab": "Moss Brick Slab",
+	"block.dawncraft.moss_brick_wall": "Moss Brick Wall",
+	
+	"block.dawncraft.mud_brick": "Mud Brick",
+	"block.dawncraft.mud_brick_stairs": "Mud Brick Stairs",
+	"block.dawncraft.mud_brick_slab": "Mud Brick Slab",
+	"block.dawncraft.mud_brick_wall": "Mud Brick Wall",
+	
+	"block.dawncraft.rock": "Rock",
+	"block.dawncraft.rock_stairs": "Rock Stairs",
+	"block.dawncraft.rock_slab": "Rock Slab",
+	"block.dawncraft.rock_wall": "Rock Wall",
+	
+	"block.dawncraft.sand_brick": "Sand Brick",
+	"block.dawncraft.sand_brick_stairs": "Sand Brick Stairs",
+	"block.dawncraft.sand_brick_slab": "Sand Brick Slab",
+	"block.dawncraft.sand_brick_wall": "Sand Brick Wall",
+	
+	"block.dawncraft.sand_slate": "Sand Slate",
+	"block.dawncraft.sand_slate_stairs": "Sand Slate Stairs",
+	"block.dawncraft.sand_slate_slab": "Sand Slate Slab",
+	"block.dawncraft.sand_slate_wall": "Sand Slate Wall",
+	
+	"block.dawncraft.shadow_brick": "Shadow Brick",
+	"block.dawncraft.shadow_brick_stairs": "Shadow Brick Stairs",
+	"block.dawncraft.shadow_brick_slab": "Shadow Brick Slab",
+	"block.dawncraft.shadow_brick_wall": "Shadow Brick Wall",
+	
+	"block.dawncraft.water_brick": "Water Brick",
+	"block.dawncraft.water_brick_stairs": "Water Brick Stairs",
+	"block.dawncraft.water_brick_slab": "Water Brick Slab",
+	"block.dawncraft.water_brick_wall": "Water Brick Wall",
+	
+	"block.dawncraft.moss_slate": "Moss Slate",
+	"block.dawncraft.moss_slate_stairs": "Moss Slate Stairs",
+	"block.dawncraft.moss_slate_slab": "Moss Slate Slab",
+	"block.dawncraft.moss_slate_wall": "Moss Slate Wall",
+	
+	"block.dawncraft.fire_door": "Fire Dungeon Door",
+	"block.dawncraft.rust_door": "Rust Dungeon Door",
+	"block.dawncraft.sand_door": "Sand Dungeon Door",
+	"block.dawncraft.stone_door": "Stone Dungeon Door",
+	"block.dawncraft.wood_door": "Wood Dungeon Door",
+	
+	"block.dawncraft.chest_spawner": "Chest Spawner",
+	"block.dawncraft.redstone_activator": "Redstone Activator",
+	"block.dawncraft.redstone_trigger": "Redstone Trigger",
+	
+	"item.dawncraft.red_key": "Red Key",
+	"item.dawncraft.green_key": "Green Key",
+	"item.dawncraft.blue_key": "Blue Key",
+	"item.dawncraft.yellow_key": "Yellow Key",
+	"item.dawncraft.orange_key": "Orange Key",
+	"item.dawncraft.purple_key": "Purple Key",
+	"item.dawncraft.silver_key": "Silver Key",
+	
+	"item.dawncraft.red_lock": "Red Lock",
+	"item.dawncraft.green_lock": "Green Lock",
+	"item.dawncraft.blue_lock": "Blue Lock",
+	"item.dawncraft.yellow_lock": "Yellow Lock",
+	"item.dawncraft.orange_lock": "Orange Lock",
+	"item.dawncraft.purple_lock": "Purple Lock",
+	"item.dawncraft.silver_lock": "Silver Lock",
+	
+	"item.dawncraft.dungeon_configurator": "Dungeon Configurator",
+	"item.dawncraft.skeleton_key": "Skeleton Key",
+	"item.dawncraft.cursed_mask": "Mask of Athora",
+	"item.dawncraft.rebirth_staff": "Staff of Rebirth",
+	"item.dawncraft.executioner": "The Executioner",
+	"item.dawncraft.slayers_blade": "Slayer's Blade",
+	"item.dawncraft.crystallized_xp": "Crystallized Experience",
+	
+	  "map.dawncraft.cultist": "Bản đồ Đáng Ngờ",
+	  "map.dawncraft.cultist.lore": "Một bản đồ được một nhà thám hiểm đã rơi vào tay để xác định vị trí của một nhà thờ.",
+	  "map.dawncraft.cultist_2": "Bản đồ của Tín Đồ",
+	  "map.dawncraft.cultist_2.lore": "Nơi ẩn náu của Father Gascoigne.",
+	  
+	  "waypoint.dawncraft.cultist": "Nhà Tù của Tín Đồ",
+	  "waypoint.dawncraft.cultist_2": "Nhà Thờ của Cha",
+	  
+	  "entity.dawncraft.fallen": "Nhà Thám Hiểm Đã Rơi",
+	  
+	  "message.dawncraft.invasions_enabled_0": "Đã phát hiện một số sự không phù hợp với thời gian, chuẩn bị cho cuộc xâm nhập sắp tới...",
+	  "message.dawncraft.invasions_enabled_1": "Cuộc xâm nhập đầu tiên trong %1$s giây.",
+	  "message.dawncraft.invasion": "Bạn đang bị xâm nhập bởi %1$s",
+	  "message.dawncraft.spawn_npc": "NPC %1$s đã được tạo thành công tại %2$s",
+	  "message.dawncraft.animal": "Đã tương tác với Động vật: %1$s/10",
+	  
+	  "message.dawncraft.singlepulse": "Đã chuyển sang chế độ xung duy nhất",
+	  "message.dawncraft.toggle": "Đã chuyển sang chế độ chuyển đổi",
+	  "message.dawncraft.creative_required": "Bạn phải ở chế độ sáng tạo để sử dụng mặt hàng này.",
+	  
+	  "message.dawncraft.select_functional_block": "Đã chọn khối chức năng %1$s",
+	  "message.dawncraft.link_triggerable_block": "Đã liên kết khối chức năng %1$s với trigger %2$s",
+	  "message.dawncraft.unlink_triggerable_block": "Đã ngắt kết nối khối chức năng %1$s từ trigger %2$s",
+	  "message.dawncraft.reset_functional_block": "Đã đặt lại khối chức năng %1$s",
+	  "message.dawncraft.no_mode": "CẢNH BÁO: không có chức năng được thiết lập cho chế độ cấu hình %1$s",
+	  
+	  "message.dawncraft.waypoint": "Đã thêm điểm đến vào bản đồ cho %1$s",
+	  
+	  "configuratormode.dawncraft.link_functional": "Chế độ: Liên kết Khối Chức năng",
+	  "configuratormode.dawncraft.unlink_functional": "Chế độ: Ngắt kết nối Khối Chức năng",
+	  "configuratormode.dawncraft.reset_functional": "Chế độ: Đặt lại Khối Chức năng",
+	  "configuratormode.dawncraft.rotate": "Chế độ: Xoay Khối",
+	  
+	  "tooltip.dawncraft.configuratormode": "Nhấn phím Shift và kích chuột phải để chuyển đổi các chế độ",
+	  "tooltip.dawncraft.configuratormode.link_functional": "Kích chuột phải để liên kết một khối chức năng, kích chuột phải một lần nữa để liên kết nó với một trigger",
+	  "tooltip.dawncraft.configuratormode.unlink_functional": "Kích chuột phải để liên kết một khối chức năng, kích chuột phải một lần nữa để ngắt kết nối nó từ một trigger",
+	  "tooltip.dawncraft.configuratormode.reset_functional": "Kích chuột phải vào một khối chức năng sử dụng một lần để đặt lại nó",
+	  "tooltip.dawncraft.configuratormode.rotate": "Kích chuột phải để xoay một khối",
+	  
+	  "tooltip.dawncraft.chest_spawner": "Tạo ra một hòm chứa với các mặt hàng chứa khi một khối đã được liên kết được kích hoạt.",
+	  "tooltip.dawncraft.redstone_activator": "Tạo ra một tín hiệu đỏ khi một khối đã được liên kết được kích hoạt.",
+	  "tooltip.dawncraft.redstone_trigger": "Kích hoạt các khối liên kết khi nhận được một tín hiệu đỏ.",
+	  
+	  "tooltip.dawncraft.key_0": "Kích chuột phải để mở một %1$s",
+	  "tooltip.dawncraft.key_1": "Sẽ tiêu thụ khi sử dụng",
+	  
+	  "tooltip.dawncraft.lock": "Kích chuột phải trên Cửa Phòng Tù để thêm khóa vào nó",
+	  
+	  "tooltip.dawncraft.skeleton_key_0": "Kích chuột phải để mở bất kỳ cửa nào đã khóa.",
+	  "tooltip.dawncraft.skeleton_key_1": "Không bị tiêu thụ khi sử dụng",
+	  
+	  "tooltip.dawncraft.cursed_mask_0": "Một chiếc mặt nạ trước đây được tin là đã được tặng bởi Thú Huyền Thoại của Athora",
+	  "tooltip.dawncraft.cursed_mask_1": "Mặc nó sẽ làm cho một số quái vật phớt lờ bạn trừ khi chúng bị kích động",
+	  
+	  "tooltip.dawncraft.mask": "Có thể có giá trị đối với một số người sưu tập mặt nạ cụ thể",
+	  
+	  "tooltip.dawncraft.rebirth_staff.inert_0": "Tĩnh",
+	  "tooltip.dawncraft.rebirth_staff.inert_1": "Cây trụ này không có sức mạnh, nó là vô dụng",
+	  "tooltip.dawncraft.rebirth_staff.powered_0": "Được Nạp Năng Lượng",
+	  "tooltip.dawncraft.rebirth_staff.powered_1": "Cây trụ phép thuật này có sức mạnh để khôi phục các vương quốc",
+	  
+	  "tooltip.dawncraft.slayers_blade_0": "Vũ khí được chọn của hội săn quái vật",
+	  "tooltip.dawncraft.slayers_blade_1": "Gây 10% sát thương của máu tổng của quái vật",
+	  
+	  "tooltip.dawncraft.executioner_0": "Thanh kiếm mạnh mẽ của một vị vua huyền thoại",
+	  "tooltip.dawncraft.executioner_1": "Giết ngay lập tức các quái vật có máu dưới 15%",
+	  
+	  "tooltip.dawncraft.crystallized_xp": "Chứa %1$s điểm kinh nghiệm",
+	
+	"tile.dawncraft.chest_spawner": "Chest Spawner",
+	
+	"effect.dawncraft.immobilized": "Immobilized",
+	"effect.dawncraft.tremor": "Tremor",
+	"effect.dawncraft.frogform": "Frogform",
+	"effect.dawncraft.fractured_soul": "Fractured Soul",
+	
+	"text.dawncraft.quest.no_text": "Thiếu văn bản cho nhiệm vụ. %1$s",
+	"text.dawncraft.quest.lorem_ipsum": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla faucibus pharetra imperdiet. Vivamus porttitor magna eget lobortis faucibus. Pellentesque et dignissim dolor. Quisque congue pharetra nibh non consequat. Maecenas risus nisi, cursus in sem ut, pulvinar commodo nisi. Nam at euismod eros, sagittis mollis sem. Etiam vitae nibh sapien. Maecenas non magna neque. Pellentesque aliquet erat ac dolor interdum rutrum. Nullam volutpat tellus erat, ac fermentum velit auctor in. Ut non est semper, volutpat ex in, semper justo. Praesent pellentesque quam a sapien interdum faucibus. Nulla eu diam ac ligula pulvinar rhoncus. Morbi pellentesque aliquet efficitur. Mauris eleifend luctus finibus. Morbi eu iaculis turpis. Duis mauris ex, condimentum tincidunt diam ac, facilisis sodales libero. Donec sagittis mauris ligula, at porttitor dolor bibendum eget. Duis ut finibus justo, nec consequat orci. Morbi ornare suscipit mattis. Suspendisse quis mauris odio. Pellentesque tempor non lorem accumsan tincidunt. Vestibulum ultricies ex at metus laoreet interdum. Nullam ornare ultricies metus in condimentum. Nulla sit amet nisl vehicula, dignissim dolor vitae, malesuada leo. Quisque id accumsan libero.",
+	
+	"text.dawncraft.quest.intro": "Chào bạn đồng hành, cuối cùng bạn cũng tỉnh rồi! Chào mừng bạn đến với thế giới của chúng tôi. Bạn chắc chắn sẽ bối rối về lý do bạn lại ở đây và bạn đang nói chuyện với ai, phải không?¶...Dù sao đi nữa, tôi sẽ bắt đầu bài thuyết trình của mình, như tôi làm với mỗi nhà thám hiểm được triệu hồi đến đây. ¶Bạn được triệu hồi đến đây để đánh bại con rồng Ender. Những sinh vật huyền thoại như người khổng lồ, người sói và thậm chí là những con rồng khác đã xuất hiện vào hai mùa đông trước đó, gây ra hỗn loạn và làm đảo lộn sự cân bằng của vương quốc của chúng ta! Các người lớn của chúng ta nói với chúng tôi rằng con rồng Ender đã bị một vị thần ác độc nào đó làm hỏng, và cả con rồng lẫn vị thần phải bị tiêu diệt để mang lại hòa bình cho vương quốc của chúng ta. Vì vậy, chúng tôi kêu gọi sự giúp đỡ của bạn, nhà thám hiểm dũng cảm. ¶Hãy có được ít nhất 12 đôi mắt thần bí, sử dụng chúng để tìm và mở cánh cổng vào Thế Giới Cuối. Một số đôi mắt này có thể được chế tạo... nhưng hầu hết được giữ bởi những thực thể mạnh mẽ. Chúng tôi không biết những thực thể đó là ai hoặc ở đâu, nhưng những người cư dân bản địa có thể có một gợi ý. Tìm kiếm các thầy chủ của họ, họ có kiến thức nhất khi nói đến những vấn đề như vậy.¶Bạn sẽ cần phải mạnh mẽ hơn, mạnh mẽ hơn rất nhiều. Các cư dân bản địa cũng có thể giúp bạn học các kỹ năng chiến đấu khác nhau - nếu bạn đối xử với họ tốt ít nhất. Là một quy tắc chung, đừng tấn công hoặc lấy cắp từ họ. Họ không phải là một nhóm quên lãng. Tuy nhiên, họ là những người tha thứ, nếu bạn trả nợ tội lỗi của mình thông qua hòm sổ của họ. Ngoài ra, đây, hãy lấy một quả cầu linh hồn. Hãy thu thập 4 trong số chúng để nâng cấp sức khỏe hoặc sức bền của bạn. Nếu bạn từng thấy một trong số loài của tôi, tương tác với họ và chứng minh cho họ thấy khả năng và trí tuệ của bạn, họ chắc chắn sẽ cho bạn một cái gì đó làm quà.¶Nếu bạn quên thông tin này bao giờ, một nhà thám hiểm đã nói với tôi một lần rằng anh ấy đã ghi lại ở một nơi gọi là 'Wiki'? Anh ấy nói rằng một nhà thám hiểm kỳ cựu sẽ biết ý nghĩa của nó là gì.¶Chúc bạn may mắn trên hành trình của mình, người yêu dấu của tôi. Mong bạn gặp những khó khăn và chướng ngại vật khó khăn phía trước, nhưng hãy biết rằng chúng chỉ khiến bạn mạnh mẽ hơn. Chúa ở cùng bạn.",
+	
+	"text.dawncraft.quest.werewolf1": "Bạn đã đến để săn tôi chưa, bạn đồng hành? Vâng, tôi là con người sói đáng sợ mà mọi người đề cập... Hãy giết tôi với thanh kiếm nếu bạn dám. Tôi hy vọng tôi không biến hình trước khi bạn hoàn thành, haha. Hoặc đúng hơn, bạn có thể mang cho tôi một quả táo vàng. Tôi đã được nghe nói chỉ có một quả táo vàng mới chữa được lời nguyền của tôi, bạn có thể lấy một cái cho tôi không? Tôi sẽ làm điều đó một mình, nhưng tôi không có trong tình trạng tốt để thu thập tài nguyên.",
+	"text.dawncraft.quest.werewolf2": "Bạn đã tìm thấy một quả táo vàng chưa? Hay bạn đến để hành quyết tôi?",
+	"text.dawncraft.quest.werewolf3": "Cảm ơn bạn, người thám hiểm, tôi cảm thấy tốt hơn rồi... Chờ một chút... Có gì đó không đúng.... Điều đó không phải là những gì tôi được nghe nói... Tốt, dường như đã tạm biệt với bạn rồi.",
+	
+	"text.dawncraft.quest.ghost1": "Xin chào, anh hùng, luôn vui lòng được gặp một nhà thám hiểm bạn, tuy tôi giờ đây ít hơn một đồng đội.¶Không, rất lấy là ân hận như bạn có thể thấy, tôi đã chết, tuy nhiên tôi lại muốn khám phá thế giới này và giúp đỡ những người đang cần giúp đỡ.¶Nếu bạn có thể mang cho tôi 6 thanh sắt, tôi có thể rèn một chiếc chuông ma thuật và giam mình trong đó. Tôi sẽ có thể đi lại trên thế giới này một lần nữa, để giúp bạn trong cuộc phiêu lưu của bạn, nếu bạn cần đấy.",
+	"text.dawncraft.quest.ghost2": "Xin chào lại, bạn chỉ cần mang cho tôi 6 thanh sắt và tôi có thể giúp bạn trong cuộc phiêu lưu của bạn!",
+	"text.dawncraft.quest.ghost3": "Ồ, tuyệt vời! Bạn đã mang nó đây... Tôi đã thiếu những cảm giác hồi hộp của một cuộc trốn chạy tốt...¶Chờ một chút tôi chưa thực sự làm điều này trước đây...¶Không, điều đó không ở đây...¶Ahah, đã có được nó, hmm, dường như nó chỉ cần một chút thời gian để hồi...",
+	
+	"text.dawncraft.quest.cult1": "Ôi, bạn ơi, nhà thám hiểm... Bạn đang tìm kiếm cái gì đó à?",
+	"text.dawncraft.quest.cult1b": "Ôi, tôi đoán là những người làng đã gửi bạn đến đây nhỉ... Vâng, vậy thì hãy mang cho tôi một mảnh giấy. Tôi sẽ cho bạn biết nơi để tìm thấy tín đồ.",
+	"text.dawncraft.quest.cult2": "Bạn đã có tờ giấy đó chưa, để tôi vẽ cho bạn một bản đồ?",
+	"text.dawncraft.quest.cult3": "Đây bạn ạ. Hãy giữ an toàn nhé bạn của tôi.",
+	"text.dawncraft.quest.cult4": "Bạn đã theo dõi tín đồ chưa?",
+	"text.dawncraft.quest.cult5": "Vậy là bạn đã bắt được tín đồ à?¶Tôi nghe nói rằng các thành viên của nhà thờ đã tra khảo hắn để tìm kiếm vị trí hiện tại của cha Gascoigne, nhưng dường như hắn đã giấu nó trong mặt nạ của mình từ lâu, haha...¶Đây, hãy tìm hắn và giải thoát hắn khỏi đau khổ.",
+	
+	"text.dawncraft.quest.barrel1": "Bởi các vị thần, CẢM ƠN BẠN! Người đó ở trên đã giam tôi trong cái thùng chắc chắn này... Nếu không phải vì bạn, tôi có lẽ đã chết vì thiếu không khí ở đó.¶Tôi phải trả thù, nhưng tôi quá yếu để đánh mạnh lên một mình... Bạn có thể giúp tôi được không?",
+	"text.dawncraft.quest.barrel2": "Tôi phải trả thù với người đó ở trên... Bạn có thể giúp tôi được không?",
+	
+	"text.dawncraft.quest.alchemist": "Xin chào nhà thám hiểm, bạn đang tìm kiếm thông tin về các loại thuốc đặc biệt phải không? Chỉ cần mang cho tôi một viên ngọc lam và tôi sẽ cho bạn biết tất cả về nó!",
+	"text.dawncraft.quest.alchemist.bloodthirst.title": "Sự khát máu",
+	"text.dawncraft.quest.alchemist.bloodthirst.text": "Ah, thứ thuốc của sự khát máu. Thuốc này cho phép bạn tái tạo sức khỏe bằng cách đánh vào kẻ thù của bạn. Hãy nhớ rằng bạn cần sử dụng hoặc thanh kiếm hoặc cái rìu để kích hoạt hiệu ứng. Việc kích hoạt nó cũng dễ dàng hơn khi bạn sử dụng vũ khí có đầu ra sát thương cao! Còn về công thức pha chế... có vẻ như bạn sẽ cần răng ma cà rồng cho các phiên bản kém hơn. Trái tim ma cà rồng có thể được sử dụng để pha một cấp độ cao hơn của thuốc này.",
+	"text.dawncraft.quest.alchemist.withering.title": "Mục tiêu",
+	"text.dawncraft.quest.alchemist.withering.text": "Hmm... Cái này khá đơn giản. Uống nó sẽ cho bạn khả năng làm cho kẻ thù của bạn khô héo bằng các cuộc tấn công của bạn. Việc kích hoạt nó dễ dàng hơn khi bạn sử dụng vũ khí có đầu ra sát thương cao! Còn về công thức pha chế... Hãy để tôi nghĩ... Ồ, vâng, xương Wither. Tôi tin rằng bạn có thể có chúng từ Yêu tinh Wither hoặc Nửa Yêu tinh. Điều đó thật khó chịu để chiến đấu đấy...",
+	"text.dawncraft.quest.alchemist.endurance.title": "Sức chịu đựng",
+	"text.dawncraft.quest.alchemist.endurance.text": "Ah-ha! Thứ thuốc HỮU ÍCH NHẤT cho một nhà thám hiểm tôi nghĩ là vậy. Uống thuốc này sẽ cho bạn một đợt tăng tạm thời về sức chịu đựng trong chiến đấu, cho phép bạn thực hiện nhiều né/block hơn trước khi hết sức chịu đựng! Còn về công thức pha chế, bạn sẽ cần các Mảnh Hang. Bạn có thể lấy chúng bằng cách giết Blockheads và Golems của Hang.",
+	
+	"text.dawncraft.quest.mask_ghost1":"Bạn có thể giúp tôi với một điều gì đó, bạn là một nhà thám hiểm phải không?¶Như bạn có thể thấy, tôi chỉ là một bóng ma trong thế giới này, bị buộc vào chiếc mặt nạ huyền thoại của nhà tôi.¶Nó cung cấp bảo vệ cho người đeo, điều đó thường tốt, nhưng một con quỷ đã biến chiếc mặt nạ trở thành nhà của nó, và ma thuật đã làm hỏng nó giữ tôi buộc vào thế giới này, lâu sau khi cái chết của tôi...Nếu bạn có thể mang cho tôi 4 chiếc mặt nạ duy nhất, chúng ta có thể làm vừa lòng nó và tôi sẽ được tự do đi tiếp, làm điều này và bạn có thể giữ chiếc mặt nạ này, ma thuật bảo vệ ban đầu của nó nên vẫn nguyên vẹn sau khi con quỷ bị trục xuất.",
+	"text.dawncraft.quest.mask_ghost2":"Bạn đã thành công trong việc mang lại các chiếc mặt nạ chưa?",
+	"text.dawncraft.quest.mask_ghost3":"Ôi, bạn thực sự đã làm được!¶Tôi phải cảm ơn bạn rất nhiều, với điều này con quỷ nên hài lòng và tôi có thể đi tiếp!¶Tạm biệt, nhà thám hiểm...",
+	
+	"text.dawncraft.quest.witch1":"Bạn ở đó có thể giúp tôi một tay không?¬Nếu bạn có thể giúp tôi thì phần thưởng của bạn sẽ rất lớn.¶Mà không hoàn thành nghi lễ của tôi thì thế giới có thể bị đe dọa¬Để hoàn thành điều này cho tôi, bạn sẽ cần một số thành phần như sau:¬Cánh dơi, Da cây,¬Mắt con bọ, Sáp ong,¬Một chân từ một con thỏ,¬Mẩu lông từ một con gấu,¬Và cuối cùng một viên ngọc màu xanh.",
+	"text.dawncraft.quest.witch2":"Bạn đã mang danh sách của tôi đến cho tôi chưa?¬Cánh dơi, Da cây¬Mắt con bọ, Sáp ong,¬Một chân từ một con thỏ,¬Mẩu lông từ một con gấu,¬Và cuối cùng một viên ngọc màu xanh.",
+	"text.dawncraft.quest.witch3":"Rất tốt, chúng ta có thể bắt đầu.¬Chờ một chút... Tôi đã làm một số lỗi tính toán nhỏ...¶Đó, đã hoàn thành, giờ chúng ta chỉ cần phải chờ chút xíu...",
+	
+	"text.dawncraft.quest.king1": "Ôi, thảm hại cho ta, trước kia ta từng cai trị thế giới nhưng giờ đây ta không còn gì nữa, vương quốc của ta đã sụp đổ và gia đình của ta không còn nữa.¶Nhưng bạn, bạn là một nhà thám hiểm phải không?¬Có lẽ bạn có thể giúp ta...¶Chỉ có một điều có thể khôi phục lại vương quốc của ta như ngày xưa... một cây trượng Tái Sinh!¶Nếu bạn mạo hiểm vào độ sâu của thế giới bên dưới và lấy được trái tim của một con quạ linh hồn, ta sẽ có thể tạo ra một cái.¬Ta nghe nói Quạ Linh Hồn có thể được tìm thấy ở Thung Lũng Cát Linh Hồn.",
+	"text.dawncraft.quest.king2": "Bạn đã tìm thấy Trái Tim Linh Hồn chưa?¬Ta nghe nói Quạ Linh Hồn có thể được tìm thấy ở Thung Lũng Cát Linh Hồn.",
+	"text.dawncraft.quest.king3": "Ôi cảm ơn bạn, bạn đã mang nó đến, không may thay ta không có khả năng ma thuật, vì vậy ta không thể hoàn thiện việc làm trượng.¶Nhưng ta cảm nhận được sức mạnh lớn bên trong bạn, bạn nên có thể truyền sức mạnh cho cây trượng này...¶Nếu bạn tuân theo hướng dẫn của ta, bạn sẽ có thể truyền sức mạnh cho cây trượng này.¶Đầu tiên, bạn cần một bàn phù phép.¬Sau đó đặt một Bệ Thờ ở mỗi hướng từ bàn đó, với khoảng cách 2 khối.¬Cuối cùng đặt một viên bột lửa lên mỗi bệ thờ và sử dụng cây trượng không hoạt động lên Bàn Phù Phép.",
+	"text.dawncraft.quest.king4": "Đầu tiên, bạn cần một bàn phù phép.¬Sau đó đặt một Bệ Thờ ở mỗi hướng từ bàn đó, với khoảng cách 2 khối.¬Cuối cùng đặt một viên bột lửa lên mỗi bệ thờ và sử dụng cây trượng không hoạt động lên Bàn Phù Phép.",
+	"text.dawncraft.quest.king5": "Bạn đã làm được nó thật sự!¶Với cái này, ta sẽ có thể khôi phục lại vương quốc của mình mà không cần phải nghi ngờ!¶Đây, hãy nhận thanh kiếm Hoàng Gia của ta, nó có thể sẽ hữu ích cho bạn.¬Ta nghi ngờ là ta sẽ cần nó, bây giờ ta đã có sức mạnh của trượng!",
+	  
+	"text.dawncraft.quest.monster_slayer1": "Hey bạn, nhà thám hiểm!¶Ta là một thành viên cấp cao của hội Sát Thủ Quái Vật, chúng tôi đang tìm kiếm các thành viên mới, và bạn trông mạnh mẽ và có khả năng.¶Bạn có muốn tham gia cùng chúng tôi không?",
+	"text.dawncraft.quest.monster_slayer1b": "Đó là tin tuyệt vời, chúng tôi tất nhiên sẽ cung cấp cho bạn trang bị chính thức của chúng tôi...¶Nhưng trước hết, bạn phải hoàn thành một số nhiệm vụ cho chúng tôi, tất nhiên bạn sẽ được trả tiền cho mỗi nhiệm vụ bạn hoàn thành, và bạn không cần phải lo lắng, ta sẽ không lấy các vật phẩm của bạn, ta chỉ cần nhìn thấy chúng để chứng minh nhiệm vụ hoàn thành ¶Nhiệm vụ đầu tiên của bạn nên đơn giản với ai đó như bạn, mang cho ta một trong những thứ sau đây: Một mảnh của Mắt Rồng, Cái Gậy của Mắt Lửa, hoặc Bộ Xương của Một Gã Kobold.",
+	"text.dawncraft.quest.monster_slayer2": "Đối với nhiệm vụ đầu tiên của bạn, bạn có thể cho tôi thấy một trong những thứ sau đây: Một mảnh của Mắt Rồng, Cái Gậy của Mắt Lửa, Bộ Xương của Một Gã Kobold hoặc Vảy của Một Người Imp?",
+	"text.dawncraft.quest.monster_slayer3": "Rất tốt, bây giờ đến nhiệm vụ tiếp theo, bạn có thể cho tôi thấy một trong những thứ sau đây: Trái Tim của Một Ma Cà Rồng, Một Mảnh từ một Gã Đầu Hòm Hang, Totem của Một Triệu Tập, hoặc Bộ Xương của Một Thây Ma Sọ Đỏ.",
+	"text.dawncraft.quest.monster_slayer4": "Đối với nhiệm vụ tiếp theo của bạn, bạn có thể cho tôi thấy một trong những thứ sau đây: Trái Tim của Một Ma Cà Rồng, Một Mảnh từ một Gã Đầu Hòm Hang, Totem của Một Triệu Tập, hoặc Bộ Xương của Một Thây Ma Sọ Đỏ.",
+	"text.dawncraft.quest.monster_slayer5": "Chúc mừng lớn nhất đến bạn, không nhiều người làm được đến đây¶Bài kiểm tra cuối cùng của bạn có thể sẽ khó khăn nhất, nhưng sẽ làm cho bạn trở thành một Sát Thủ Quái Vật thực sự, xứng đáng với hội!¶Để hoàn thành bài kiểm tra cuối cùng của bạn, hãy cho tôi thấy một trong những thứ sau đây: ngôi sao của Một Thây Ma, trái tim của Một Con Rồng, một mảnh từ một Gã Golem Hang Động, Mặt Nạ của Barakoa, Cái Rìu của Một Ferrous Wroughtnaught, hoặc Ngọc của Một Hành Tinh Hỏa.",
+	"text.dawncraft.quest.monster_slayer6": "Để hoàn thành bài kiểm tra cuối cùng của bạn, hãy cho tôi thấy một trong những thứ sau đây: ngôi sao của Một Thây Ma, trái tim của Một Con Rồng, một mảnh từ một Gã Golem Hang Động, Mặt Nạ của Barakoa, Cái Rìu của Một Ferrous Wroughtnaught, hoặc Ngọc của Một Hành Tinh Hỏa.",
+	"text.dawncraft.quest.monster_slayer7": "Đó thật tuyệt vời khi thấy, ta biết mình đã đặt niềm tin vào bạn đúng đắn.¶Tiếp tục đi nhận những phần thưởng này, bạn xứng đáng với chúng!",
+
+	"text.dawncraft.quest.sage1": "Xin chào, nhà thám hiểm, ta muốn hỏi xem bạn có thể giúp ta không?Ta đang viết một bài về động vật hoang dã của thế giới này, nhưng tiếc thay ta khá sợ hãi với một số trong số chúng.¶Liệu bạn có thể tương tác với 10 loài động vật khác nhau và cho ta biết nhận xét của bạn không? Ta sẽ tặng cho bạn chìa khóa ma thuật của ta làm phần thưởng.",
+	"text.dawncraft.quest.sage2": "Trở lại nhanh vậy? Bạn đã thật sự tương tác với 10 loài động vật chưa?",
+	"text.dawncraft.quest.sage3": "Hmm, thú vị, ta chưa bao giờ nghĩ rằng chúng sẽ có hành vi như vậy...¶Cảm ơn bạn rất nhiều vì thông tin này, điều này sẽ rất hữu ích cho công việc của ta...¶Ồ và ta quên, hãy lấy cái này, nó có thể giúp bạn trong... bất cứ điều gì bạn làm...",
+
+  "text.dawncraft.quest.sorcerer1": "Umm, xin chào, bạn là một nhà thám hiểm phải không?¬Bạn có thể giúp ta một chút được không?Chà, bạn thấy ta đang đào tạo để trở thành một phù thủ học đệ và ta vô tình làm vỡ cây gậy của mình...¶Ta biết cách sửa nó, nhưng ta không thể tìm thấy nguyên liệu mà ta cần...¶Nếu bạn có thể mang cho ta một mảnh ngọc lam, ta có thể cho bạn một quả cầu linh hồn làm phần thưởng.",
+  "text.dawncraft.quest.sorcerer2": "Bạn đã thành công trong việc tìm được mảnh ngọc lam chưa?",
+  "text.dawncraft.quest.sorcerer3": "Ôi cảm ơn bạn nhiều lắm...Với cái này, ta sẽ có thể làm cho cây gậy của mình như mới!Đây như đã hứa, hãy lấy quả cầu linh hồn này, nó không thực sự hữu ích cho ta nhưng nó có thể giúp bạn trong nhiệm vụ của bạn!",
+  
+	"text.dawncraft.next": ">>",
+	"text.dawncraft.back": "Quay lại",
+	"text.dawncraft.close": "Đóng",
+	"text.dawncraft.acknowledge1": "Hiểu rồi",
+	"text.dawncraft.acknowledge2": "Chắc chắn",
+	"text.dawncraft.acknowledge3": "Được!",
+	"text.dawncraft.acknowledge4": "Được rồi!",
+	"text.dawncraft.acknowledge5": "Cảm ơn!",
+	"text.dawncraft.deny1": "Chưa...",
+	"text.dawncraft.deny2": "Đang làm",
+	"text.dawncraft.deny3": "Xin lỗi, không",
+	"text.dawncraft.deny4": "Không",
+	"text.dawncraft.accept1": "Ta sẽ làm!",
+	"text.dawncraft.accept2": "Chắc chắn",
+	"text.dawncraft.accept3": "Được!",
+	"text.dawncraft.accept4": "Được rồi!",
+	"text.dawncraft.accept5": "Ta chấp nhận!",
+	"text.dawncraft.decline1": "Có lẽ sau.",
+	"text.dawncraft.decline2": "Ta đang bận",
+	"text.dawncraft.decline3": "Không, xin lỗi.",
+	"text.dawncraft.decline4": "Không lúc này",
+	"text.dawncraft.decline5": "Ta từ chối!",
+	  
+	"advancements.adventure.kill_a_creeper.title": "Ôi!",
+	"advancements.adventure.kill_a_creeper.description": "Giết một creeper",
+	"advancements.adventure.fallenkingdom.title": "Trước kia ta cai trị thế giới",
+	"advancements.adventure.fallenkingdom.description": "Giúp một vua khôi phục lại vương quốc của mình.",
+	"advancements.end.root.title": "Tìm những mảnh vỡ",
+	"advancements.end.root.description": "Nhập vào Ender...",
+	"advancements.story.enter_the_end.title": "Tìm những mảnh vỡ",
+	"advancements.story.enter_the_end.description": "Đặt lại bức tranh...",
+	  
+	"toasts.dawncraft.combatmode.title": "Nhấn \"%1$s\" để Chuyển sang Chế Độ Chiến Đấu",
+	"toasts.dawncraft.combatmode.text0": "Sát thương gần không trong",
+	"toasts.dawncraft.combatmode.text1": "chế độ chiến đấu bị giảm một nửa.",
+	  
+	"toasts.dawncraft.dodge.title": "Nhấn \"%1$s\" để Lảo Đảo",
+	"toasts.dawncraft.dodge.text0": "Lảo đảo chỉ hoạt động trong chế độ chiến đấu",
+	"toasts.dawncraft.dodge.text1": "",
+	 
+	"toasts.dawncraft.skills.title": "Sách Kỹ Năng Đã Thu Nhận",
+	"toasts.dawncraft.skills.text0": "Nhấn \"%1$s\" để kiểm tra kỹ năng của bạn",
+	"toasts.dawncraft.skills.text1": "",
+	  
+	"toasts.dawncraft.map.title": "Kiểm tra các Điểm Đánh Dấu của Bạn trong Bản Đồ",
+	"toasts.dawncraft.map.text0": "Nhấn \"%1$s\" để mở",
+	"toasts.dawncraft.map.text1": "bản đồ thế giới",
+	  
+	"toasts.dawncraft.stealing.title": "Đừng ăn trộm!",
+	"toasts.dawncraft.stealing.text0": "Danh tiếng của làng sẽ bị giảm nếu bạn",
+	"toasts.dawncraft.stealing.text1": "bị bắt ăn trộm"
+	
+}
